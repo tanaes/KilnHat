@@ -1,7 +1,7 @@
 # KilnHat
 PCB for running a kiln from a Raspberry Pi.
 
-<img src='./images/kiln_controller.jpeg' width=600>
+<img src='./Images/kiln_controller.jpeg' width=600>
 
 
 Has three MOSFET channels for controlling a mechanical safety relay, an SSR, and a fan. On-board thermocouple amplifier. Includes outputs for digital displays, addressable LEDs, and an I2C port.
