@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC Part #
+".01uF Unpolarized capacitor, small symbol","C1,C3",C_0603_1608Metric,0603
+".1uF Unpolarized capacitor, small symbol","C2,C4,C5",C_0603_1608Metric,C14663
+D_Schottky Schottky diode,"D1,D2,D3",D_SMA,C22452
+LED Light emitting diode,"D4,D5,D6",LED_0603_1608Metric,C2286
+"1N4148WS 75V 0.15A Fast switching Diode, SOD-323","D7,D8,D9",D_SOD-323,C2128
+"AO3400A 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23","Q1,Q2,Q3",SOT-23,C20917
+4.7k Resistor,"R1,R2,R3",R_0603_1608Metric,C23162
+100 Resistor,"R4,R5,R6,R10,R11",R_0603_1608Metric,C22775
+10k Resistor,"R7,R8,R9,R12,R13,R14",R_0603_1608Metric,C25804
